@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The conditions upon which the patentees for making salt or brackish water fresh and wholsom, do intend to conclude with such persons that shall please to agree with them for the use of this invention either by sea or land.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20601</idno><idno type="EEBO-CITATION">99884131</idno>
+  <idno type="VID">186392</idno>
+  <idno type="EEBO-PROQUEST">2248521330</idno>
+  
+            <idno type="STC">Wing C5724A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 712.m.1[24]</idno>
+            <idno type="STC">ESTC R213593</idno>
+            <idno type="PROQUEST">ocm99884131</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884131e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20601)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186392)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:3[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The conditions upon which the patentees for making salt or brackish water fresh and wholsom, do intend to conclude with such persons that shall please to agree with them for the use of this invention either by sea or land.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Harefinch, in Mountague-Court in Little Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Water --  Purification --  Early works to 1800.</term>
+               <term type="topical_term">Seawater --  Distillation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186392:1"/>
+            <head>The <hi>CONDITIONS</hi> upon which the <hi>Patentees</hi> for making <hi>Salt</hi> or <hi>Brackish Water Fresh</hi> and <hi>Wholsom,</hi> do intend to con<g ref="char:EOLhyphen"/>clude with such Persons that shall please to agree with them for the Ʋse of this <hi>Invention</hi> either by <hi>SEA</hi> or <hi>LAND.</hi>
+            </head>
+            <p>FIRST, Every Person desiring to deal with the said Patentees, may have one Engine or more with its Appendances, together with Dire<g ref="char:EOLhyphen"/>ctions how to manage and place the same, paying for each Engine and its Appendances, that will make about ninety Gallons of VVater fresh in 24 Hours, the Sum of eighteen Pounds.</p>
+            <p>Every one buying an Engine, is also to buy as much of the Ingredients for this Operation as will keep the same going at least six Months, at the Rate of one shilling for as much as makes about ninety Gallons of VVater.</p>
+            <p>Every one dealing for an Engine, and the quantity of Ingredients afore<g ref="char:EOLhyphen"/>said, is to enter into Covenants with the Patentees by Articles indented un<g ref="char:EOLhyphen"/>der Hand and Seal, as followeth;
+<list>
+                  <item>
+                     <hi>First, That he shall not sell or dispose of the said Engine or Ingredients, without License first had from the</hi> Patentees, <hi>under their Hands and Seals.</hi>
+                  </item>
+                  <item>
+                     <hi>Secondly, That he shall not use, nor suffer the said Engine or Ingredients to be used on Shore, without License from the</hi> Patentees, <hi>neither shall he directly or indirectly make, cause, or suffer to be made, any Engine in imitation of that of the</hi> Patentees, <hi>nor shall use any other Engine or Ingredients than what he shall buy of the</hi> Patentees, <hi>du<g ref="char:EOLhyphen"/>ring the Grant of His Majesty to the said</hi> Patentees, <hi>without their License in Wri<g ref="char:EOLhyphen"/>ting, under their Hands and Seals.</hi>
+                  </item>
+                  <item>
+                     <hi>Thirdly, That when he hath expended the Quantity of Ingredients first bought, he will from time to time buy a like Quantity from the said</hi> Patentees, <hi>which they will be obliged to afford at the like Rate.</hi>
+                  </item>
+                  <item>
+                     <hi>Fourthly, That he will pay unto the said</hi> Patentees, <hi>as a</hi> Praemium <hi>for their In<g ref="char:EOLhyphen"/>vention of this</hi> Beneficial Art, <hi>six pence the Tun yearly, for the Tunnage of every Ship, in which they shall carry an Engine, the one Moiety in hand, on the delivery of the Engine, and the other at six Months after.</hi>
+                  </item>
+                  <item>
+                     <hi>Fifthly, If any one sells his Ship, or Interest in such Ship, and desires to be dis<g ref="char:EOLhyphen"/>charged of the afore-mentioned Covenants, bringing the Buyer, or some for him, to the</hi> Patentees <hi>Office, and procuring him or some for him to enter into Articles of the like tenor, his Articles shall be delivered up cancell'd.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>If any one after the first Voyage shall not think it convenient to use the said Engine and Ingredients, returning to the Patentees at the Office their Engine and Appendances, with the remainder of the Ingredients, not being damnified, he shall be discharged of the above Covenants, and re<g ref="char:EOLhyphen"/>pai'd the Moiety of the Money first paid for the Engines and Appendan<g ref="char:EOLhyphen"/>ces, and also one Moiety according to the quantity of Ingredients return<g ref="char:EOLhyphen"/>ed as above.</p>
+            <p>If any Engine and Ingredients be used on Shore, the <hi>Praemium</hi> for each Engine shall be proportionably cheap, with respect to the advantages, the
+<pb facs="tcp:186392:2"/>Parties agreeing with the Patentees may have by it, and they shall also co<g ref="char:EOLhyphen"/>venant not to use or suffer to be used the said Engine and Ingredients on Ship-board without Licence from the Patentees.</p>
+            <p>Upon these Conditions, the Engine and Ingredients (which may be car<g ref="char:EOLhyphen"/>ryed either by Sea or Land) together with the Directions for the use thereof, shall be ready from and after the twentieth day of <hi>August</hi> next, at the Patentees Office kept in <hi>Lothbury</hi> near the <hi>Royal Exchange,</hi> which will always be open from ten of the Clock in the Morning till one. And all Persons who are willing to agree upon these Terms, may be pleased to subscribe their Names, or to order some one for them to accept of these Conditions, for which Books shall be always ready at the said Office in <hi>Lothbury,</hi> and at Mr. <hi>John Gandy</hi>'s at the sign of the Ship over against the <hi>Royal Exchange.</hi>
+            </p>
+            <p>All the above Charges, together with the Price of Firing, and the Interest of the first cost of the Engine and its Appendances, as also the <hi>Praemium</hi> being duely computed, the VVater notwithstanding will come under one half pen<g ref="char:EOLhyphen"/>ny the Gallon, and the Room which the Fewel takes up for Stowage, and the few Casks to be imployed in the making and receiving this <hi>prepared Water,</hi> will be less then the
+<note n="*" place="margin">Vid. <hi>Dr. Grew</hi>'s <hi>Treatise, call'd</hi> New Experiments, <hi>fol.</hi> 14.</note> tenth part of the Stowage now imployed for VVater only.</p>
+            <p>All Persons desirous to deal with the Patentees, whose Occasions will not permit them to come to <hi>London,</hi> shall have the Agreements which are to be signed, sent to such convenient Places as the said Parties shall desire, which they may communicate to the Patentees by Letters to their Office in <hi>Lothbury.</hi>
+            </p>
+            <p>All Parties who please to be further informed of the great Advantages they may receive by this Invention, (both as to Health and Profit) may have delivered to them two <hi>Treatises</hi> written on this Subject in most Lan<g ref="char:EOLhyphen"/>guages now used, at the Patentees Office in <hi>Lothbury,</hi> or at the Ship in <hi>Cornhil,</hi> over against the <hi>Royal Exchange, London.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>July</hi> 2. 1684.</date> This Paper was agreed to, and ordered to be Printed and Published, by the Patentees, and others concern'd.</dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>The Earl of Berkeley.</hi>
+                     </item>
+                     <item>
+                        <hi>Lord Viscount Falkland.</hi>
+                     </item>
+                     <item>
+                        <hi>R. Fitzgerald.</hi>
+                     </item>
+                     <item>
+                        <hi>Nat. Johnson.</hi>
+                     </item>
+                     <item>
+                        <hi>Theo. Oglethorpe.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Maule.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Bridgman.</hi>
+                     </item>
+                     <item>
+                        <hi>P. Trant.</hi>
+                     </item>
+                     <item>
+                        <hi>George Doddington.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Haresinch,</hi> in <hi>Mountague-Court</hi> in <hi>Little Britain,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
